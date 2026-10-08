@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Next.js build files
+.next/
+*/.next/
+
+# Environment variables & local secrets
+.env*
+*/.env*
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.code-workspace
